@@ -2,6 +2,6 @@
 Repository for the Bioinformatics [First Assignment/Project]
 
 **Group 7**
-Jeremy Sapienza
-Martina Betti
-Filippo Mastrogiacomo
+- Jeremy Sapienza
+- Martina Betti
+- Filippo Mastrogiacomo
